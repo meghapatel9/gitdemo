@@ -6,7 +6,7 @@
 
 package beads;
 
-/**
+/**this is my first git pushed file
  *
  * @author Megha
  */
