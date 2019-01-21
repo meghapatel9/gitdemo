@@ -7,7 +7,7 @@
 package student;
 
 /**
- *
+ * this is my first demo
  * @author Megha
  */
 public class Student {
